@@ -29,5 +29,5 @@ logs/
 __pycache__/
 .ipynb_checkpoints/
 # Ignore Excel and CSV files
-*.xlxs
+*.xlsx
 *.csv
