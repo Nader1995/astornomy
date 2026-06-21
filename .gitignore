@@ -28,4 +28,5 @@ logs/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
-
+.xlxs
+.csv
