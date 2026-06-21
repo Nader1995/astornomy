@@ -28,5 +28,6 @@ logs/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
-.xlxs
-.csv
+# Ignore Excel and CSV files
+*.xlxs
+*.csv
