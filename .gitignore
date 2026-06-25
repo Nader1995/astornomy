@@ -34,3 +34,5 @@ __pycache__/
 # Ignore previous code
 main.py
 test.py
+plot.py
+matPlot.py
